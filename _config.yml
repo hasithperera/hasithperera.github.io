@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Hasith Perera"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ahe-headshot-AGU_24.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Central, SC"
   email            : "aperera@clemson.edu"
