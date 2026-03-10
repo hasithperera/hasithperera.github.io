@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "371d687defc642d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "39aac987aca24238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c9875b4ad2fd77b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/tags.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49aafec1e7007ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bfb5ccaee0e98ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68242d3333fd0f6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3890110ae6cd924d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "883a071adc1b443f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57c6af8cf2f74362",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8c544e7bc852a52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b33658b776896067",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0c5f55cacd23ae0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a277e4f625a6378d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "32b73af604c286ff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4a7d79dfdbb40e02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "03d43fa257fce3e7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "03d43fa257fce3e7",
+  "lastOpenFiles": [
+    "_config.yml~",
+    "_drafts/_config.yml",
+    "_pages/research.md",
+    "_pages/tags.md",
+    "_pages/404.md",
+    "_pages/about.md",
+    "_pages/cv.md",
+    "_pages/category-archive.md",
+    "_pages/tag-archive.md",
+    "_posts/2026-03-09-test-gallery.md",
+    "assets/images/posts/research/us_image_lime.png",
+    "assets/images/posts/research",
+    "_posts/2024-12-22-WVU-Rocksat-2024.md",
+    "_posts/2019-12-28-Jaffna-Eclipse.md",
+    "Untitled.canvas",
+    "_drafts/2019-12-28.md",
+    "_drafts/2019-04-18-welcome-to-jekyll.md",
+    "_drafts/2026-03-09-Image example.md",
+    "_drafts/2010-02-05-post-notice.md",
+    "_drafts/2010-02-05-post-quote.md",
+    "_drafts/2010-03-07-post-link.md",
+    "_drafts/2010-01-07-post-modified.md",
+    "_drafts/2010-01-07-post-standard.md",
+    "_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-utilities.scss",
+    "_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-unprefix.scss",
+    "_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-settings.scss",
+    "_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-grid-math.scss",
+    "_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-api.scss",
+    "_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_prefix.scss",
+    "_sass/minimal-mistakes/vendor/breakpoint/parsers/triple/_default.scss",
+    "_sass/minimal-mistakes/vendor/breakpoint/parsers/single/_default.scss",
+    "assets/images/posts/jaffna_eclipse_1.jpg",
+    "assets/images/posts/jaffna_eclipse_2.jpg",
+    "assets/images/posts/rocksatx_pre_post.png",
+    "assets/images/posts/Pasted image 20260309022633.png",
+    "assets/images/posts/Pasted image 20260309010620.png",
+    "assets/images/posts/Pasted image 20260309012014.png",
+    "_drafts/Untitled.md"
+  ]
+}
