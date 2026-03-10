@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Hasith Perera"
   avatar           : "/assets/images/ahe-headshot-AGU_24.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "A Sri Lankan graduate student studying the wonders of Plasma Physics"
   location         : "Central, SC"
   email            : "aperera@clemson.edu"
   links:
@@ -321,8 +321,17 @@ defaults:
       type: posts
     values:
       layout: single
+			show_date: true #external 
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false # true
+      comments: true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
