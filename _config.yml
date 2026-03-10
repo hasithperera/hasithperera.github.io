@@ -320,13 +320,13 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+			layout: single
 			show_date: true #external 
-      author_profile: true
-      read_time: false # true
-      comments: true
-      share: true
-      related: true
+			author_profile: true
+			read_time: false # true
+			comments: true
+			share: true
+			related: true
 
   # _pages
 	- scope:
