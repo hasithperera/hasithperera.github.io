@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Hasith Perera"
   avatar           : "/assets/images/ahe-headshot-AGU_24.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A Sri Lankan graduate student studying the wonders of Plasma Physics"
+  bio              : "A Sri Lankan graduate student exploring the physics of Plasmas"
   location         : "Central, SC"
   email            : "aperera@clemson.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:aperera@clemson.edu"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:aperera@clemson.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://hasithperera.github.io/"
