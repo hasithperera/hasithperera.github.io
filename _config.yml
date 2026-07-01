@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Hasith Perera"
   avatar           : "/assets/images/ahe-headshot-AGU_24.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A Sri Lankan graduate student studying the wonders of Plasma Physics"
+  bio              : "A Sri Lankan graduate student exploring the physics of Plasmas"
   location         : "Central, SC"
   email            : "aperera@clemson.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:aperera@clemson.edu"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:aperera@clemson.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://hasithperera.github.io/"
@@ -313,25 +313,22 @@ compress_html:
     envs: development
 
 
-# Defaults
 defaults:
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-			layout: single
-			show_date: true #external 
-			author_profile: true
-			read_time: false # true
-			comments: true
-			share: true
-			related: true
-
+      layout: single
+      author_profile: true
+      show_date: true
+      comments: true
+      share: true
+      related: true
   # _pages
-	- scope:
-			path: ""
-			type: pages
-		values:
-			layout: single
-
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true

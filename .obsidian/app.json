@@ -4,5 +4,6 @@
   "newFileFolderPath": "_drafts",
   "attachmentFolderPath": "assets/images",
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
